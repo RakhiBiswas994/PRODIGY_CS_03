@@ -30,6 +30,6 @@ The Password Strength Checker analyzes user-input passwords and provides instant
 
 - `password_strength_check.py` – Main script for password strength checking
 
-- ## 📁 How to run
+- ## 💻 How to run
 - python password_strength_check.py
 
